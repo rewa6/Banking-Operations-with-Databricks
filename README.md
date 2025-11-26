@@ -98,6 +98,14 @@ streamlit run app.py
 
 Connect Power BI to transformed data for dashboard visualization.
 
+# Dashboards
+
+<img width="1352" height="751" alt="Transactions Dashboard" src="https://github.com/user-attachments/assets/ab9c368f-158c-4f1d-8312-e8d6f8656c77" />
+
+<img width="1212" height="662" alt="Customers Dashboard" src="https://github.com/user-attachments/assets/ccf66473-c8a6-4786-b48d-8d56df1898c6" />
+
+<img width="1182" height="650" alt="Map" src="https://github.com/user-attachments/assets/d191a394-f08d-4270-b5ff-9cab631535cb" />
+
 
 # Future Enhancements
 
